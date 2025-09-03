@@ -60,3 +60,4 @@ dist/
 # --- Streamlit / Cache ---
 .streamlit/
 .cache/
+.vercel
